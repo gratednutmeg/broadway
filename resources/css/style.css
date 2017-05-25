@@ -24,17 +24,17 @@ a {
   color: white;
 }
 
-li {
-  list-style-type: none;
-  padding: 5px 0px;
-}
-
 footer {
   background-color: dimgrey;
   color: white;
   font-size: 11px;
   text-align: left;
 }
+
+.divider {
+  color: white;
+}
+
 .header, .divider {
   background-image: url("../images/the-flatiron-building.png");
 }
